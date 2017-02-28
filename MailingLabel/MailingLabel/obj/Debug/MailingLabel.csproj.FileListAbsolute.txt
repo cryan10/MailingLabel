@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.pdb
